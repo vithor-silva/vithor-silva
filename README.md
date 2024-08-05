@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Development | .NET C# |**
 
-- 💬 Ask me about **I'm a Front-End developer currently studying programming at Senac SC college.**
+- 💬 I'm a Front-End developer currently studying programming at Senac SC college.
 
 
 <h3 align="left">Connect with me:</h3>
