@@ -35,5 +35,4 @@
 #### Estatísticas:
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithor-silva&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=vithor-silva&amp;theme=radical">
 </div>
