@@ -1,32 +1,41 @@
-<h1 align="center">Hi 👋, I'm Vithor Silva</h1>
-<h3 align="center">A Full-Stack developer from Brazil</h3>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+## Hello, Devs!! :wave:
+### O meu nome é Vithor Martins Silva, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- :beginner:  Sou de Socorro/SP, Brasil
+##
+
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=cs"/>](https://dotnet.microsoft.com/pt-br/learn)
+[<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=net"/>](https://dotnet.microsoft.com/pt-br/learn/aspnet/what-is-aspnet)
+##
+
+#### Tenho conhecimento em:
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=typescript"/>](https://www.typescriptlang.org/docs/)
+[<img height="48px" width="48px" alt="Icone Javascript" src="https://skillicons.dev/icons?i=javascript"/>](https://devdocs.io/javascript/)
+[<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://v2.tailwindcss.com/docs)
+[<img height="48px" width="48px" alt="Icone tailwind" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 
 
-- 💬 I'm a Front-End developer
-- 🌱 I’m currently learning **Software Development | .NET C# |**
+[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://dev.mysql.com/doc/)
+[<img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/docs/)
+[<img height="48px" width="48px" alt="Icone prisma" src="https://skillicons.dev/icons?i=prisma"/>](https://www.prisma.io/docs)
 
+##
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vithor-silva/)
+<a href="mailto:contatovithorsilva@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vithor-silva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithor-silva/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatovithorsilva@gmail.com)
+##
 
+#### Estatísticas:
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithor-silva&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=vithor-silva&amp;theme=radical">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<h3 align="left">GitHub Status:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vithor-silva&layout=compact)
-![Vithor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithor-silva&theme=dracula&show_icons=true)
+[![wakatime](https://wakatime.com/badge/user/d4ee6717-e8db-4192-a6f7-abb330d28b3e.svg)](https://wakatime.com/@d4ee6717-e8db-4192-a6f7-abb330d28b3e)
