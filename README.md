@@ -3,7 +3,7 @@
 ## Hello, Devs!! :wave:
 ### O meu nome é Vithor Martins Silva, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- :beginner:  Sou de Socorro/SP, Brasil
+- :beginner:  Sou de Palhoça/SC, Brasil
 ##
 
 #### Estou aprendendo sobre:
@@ -37,5 +37,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithor-silva&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=vithor-silva&amp;theme=radical">
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/d4ee6717-e8db-4192-a6f7-abb330d28b3e.svg)](https://wakatime.com/@d4ee6717-e8db-4192-a6f7-abb330d28b3e)
