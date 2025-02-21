@@ -6,9 +6,10 @@
 - :beginner:  Sou de Palhoça/SC, Brasil
 ##
 
-#### Estou aprendendo sobre:
-[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=cs"/>](https://dotnet.microsoft.com/pt-br/learn)
-[<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=net"/>](https://dotnet.microsoft.com/pt-br/learn/aspnet/what-is-aspnet)
+#### Aprimorando meus conhecimentos em:
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Typescript" src="https://skillicons.dev/icons?i=typescript"/>](https://www.typescriptlang.org/docs/)
+[<img height="48px" width="48px" alt="Icone Next" src="https://skillicons.dev/icons?i=next"/>]([https://www.typescriptlang.org/docs/](https://nextjs.org/))
 ##
 
 #### Tenho conhecimento em:
